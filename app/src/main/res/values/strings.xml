@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">个人股票试用版</string>
+    <string name="stock_sh_name">上证指数</string>
+    <string name="stock_sz_name">深圳成指</string>
+    <string name="stock_chuang_name">创业板指</string>
+    <string name="button_add_label">添加</string>
+    <string name="stock_name_title">名称</string>
+    <string name="stock_now_title">最新</string>
+    <string name="stock_increase_percent_title">涨跌幅</string>
+    <string name="stock_increase_title">涨跌量</string>
+    <string name="action_settings">设置</string>
+    <string name="action_delete">删除</string>
+    <string name="stock_buy">买</string>
+    <string name="stock_sell">卖</string>
+    <string name="stockcodenull">股票代码不能为空，请输入!!!</string>
+    <string name="nowpriceText">当前价:</string>
+    <string name="stock_increaseText">涨跌量:</string>
+    <string name="stock_increase_percentText">涨跌幅:</string>
+    <string name="todaypriceText">开盘价:</string>
+    <string name="highestPriceText">最高价:</string>
+    <string name="lowestPriceText">最低价:</string>
+    <string name="tradeCountText">成交量:</string>
+    <string name="tradeMoneyText">成交额:</string>
+    <string name="yestodayPriceText">昨收价:</string>
+    <string name="wholePointPrice">今日整点价(9:30开盘):</string>
+    <string name="title_activity_welcome">Welcome</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>

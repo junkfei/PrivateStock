@@ -1,0 +1,138 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\junkfei\\AndroidStudioProjects\\PrivateStock\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\junkfei\\AndroidStudioProjects\\PrivateStock\\app\\src\\main\\res\\values\\strings.xml",
+                    "from": {
+                        "startLines": "13,12,3,7,28,21,22,17,14,6,18,19,10,11,8,9,15,4,5,16,27,20,23,24,26,25",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "563,515,59,253,1332,961,1012,751,609,201,798,851,399,461,302,351,650,105,153,692,1272,912,1062,1111,1212,1160",
+                        "endColumns": "44,46,44,47,52,49,48,45,39,50,51,59,60,52,47,46,40,46,46,57,58,47,47,47,58,50",
+                        "endOffsets": "603,557,99,296,1380,1006,1056,792,644,247,845,906,455,509,345,393,686,147,195,745,1326,955,1105,1154,1266,1206"
+                    },
+                    "to": {
+                        "startLines": "11144,11145,11146,11147,11148,11149,11150,11151,11152,11153,11154,11155,11156,11157,11158,11159,11160,11161,11162,11163,11164,11165,11166,11167,11168,11169",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "305584,305629,305676,305721,305769,305822,305872,305921,305967,306007,306058,306110,306170,306231,306284,306332,306379,306420,306467,306514,306572,306631,306679,306727,306775,306834",
+                        "endColumns": "44,46,44,47,52,49,48,45,39,50,51,59,60,52,47,46,40,46,46,57,58,47,47,47,58,50",
+                        "endOffsets": "305624,305671,305716,305764,305817,305867,305916,305962,306002,306053,306105,306165,306226,306279,306327,306374,306415,306462,306509,306567,306626,306674,306722,306770,306829,306880"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\junkfei\\AndroidStudioProjects\\PrivateStock\\app\\src\\main\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "6,15",
+                        "startColumns": "4,4",
+                        "startOffsets": "191,527",
+                        "endLines": "12,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "486,684"
+                    },
+                    "to": {
+                        "startLines": "11170,11177",
+                        "startColumns": "4,4",
+                        "startOffsets": "306885,307181",
+                        "endLines": "11176,11179",
+                        "endColumns": "12,12",
+                        "endOffsets": "307176,307336"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\junkfei\\AndroidStudioProjects\\PrivateStock\\app\\src\\main\\res\\values\\stockcodes_sina.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endLines": "2787",
+                        "endColumns": "19",
+                        "endOffsets": "86162"
+                    },
+                    "to": {
+                        "startLines": "5572",
+                        "startColumns": "4",
+                        "startOffsets": "149922",
+                        "endLines": "8356",
+                        "endColumns": "19",
+                        "endOffsets": "233241"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\junkfei\\AndroidStudioProjects\\PrivateStock\\app\\src\\main\\res\\values\\dimens.xml",
+                    "from": {
+                        "startLines": "3,4",
+                        "startColumns": "4,4",
+                        "startOffsets": "92,151",
+                        "endColumns": "57,55",
+                        "endOffsets": "145,202"
+                    },
+                    "to": {
+                        "startLines": "11142,11143",
+                        "startColumns": "4,4",
+                        "startOffsets": "305470,305528",
+                        "endColumns": "57,55",
+                        "endOffsets": "305523,305579"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\junkfei\\AndroidStudioProjects\\PrivateStock\\app\\src\\main\\res\\values\\stock_letters.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endLines": "2787",
+                        "endColumns": "19",
+                        "endOffsets": "74952"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "2786",
+                        "endColumns": "19",
+                        "endOffsets": "72164"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\junkfei\\AndroidStudioProjects\\PrivateStock\\app\\src\\main\\res\\values\\stockname.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endLines": "2787",
+                        "endColumns": "19",
+                        "endOffsets": "75062"
+                    },
+                    "to": {
+                        "startLines": "8357",
+                        "startColumns": "4",
+                        "startOffsets": "233246",
+                        "endLines": "11141",
+                        "endColumns": "19",
+                        "endOffsets": "305465"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\junkfei\\AndroidStudioProjects\\PrivateStock\\app\\src\\main\\res\\values\\stockcodes.xml",
+                    "from": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "59",
+                        "endLines": "2787",
+                        "endColumns": "19",
+                        "endOffsets": "80591"
+                    },
+                    "to": {
+                        "startLines": "2787",
+                        "startColumns": "4",
+                        "startOffsets": "72169",
+                        "endLines": "5571",
+                        "endColumns": "19",
+                        "endOffsets": "149917"
+                    }
+                }
+            ]
+        }
+    ]
+}
