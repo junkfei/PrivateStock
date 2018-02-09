@@ -1,3 +1,4 @@
+![PrivateStock](https://raw.githubusercontent.com/junkfei/PrivateStock/master/app/src/main/res/drawable-hdpi/stock_icon.png)
 # PrivateStock 个人股票beta版
 - 这是一个股票APP。
 - 主要功能：
