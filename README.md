@@ -7,4 +7,4 @@
     3. 点击进入自选股，具体显示自选股的**当前价**、**涨跌量**、**涨跌幅**、**开盘价**、**最高价**、**最低价**、**成交量**、**成交额**和**实时整点报价**。
 - 练手作品，界面和功能都很简单，仅供娱乐。：）  
 # 截图
-<img width="360" height="640" src="https://github.com/junkfei/img-folder/blob/master/PrivateStock/01.png"/> <img width="360" height="640" src="https://github.com/junkfei/img-folder/blob/master/PrivateStock/02.png"/>  
+<img width="30%" src="https://github.com/junkfei/img-folder/blob/master/PrivateStock/01.png"/> <img width="30%" src="https://github.com/junkfei/img-folder/blob/master/PrivateStock/02.png"/>  
